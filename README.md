@@ -6,5 +6,5 @@ I have created this web application on basis of IMBD and made a clone web applic
 Basically this web application has data of all the latest popular movies and I have used API of TMDB and integrated it in application using Axios library in ReactJS.</br>
 I have created this web application as a personal project</br>
 
-[Link for this web app: ](internetmoviedatabase-clone.netlify.app)
+[Link for this web app: ](https://internetmoviedatabase-clone.netlify.app/)
 

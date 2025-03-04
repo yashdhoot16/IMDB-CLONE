@@ -1,0 +1,19 @@
+@import './index.css';
+
+body {
+  background-color: black!important;
+  margin:  0!important;
+  color: white!important;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif!important;
+}
+
+table, td, th {
+  border: 1px solid white!important;
+  border-collapse: collapse!important;
+}
+
+th{
+  padding: 3px 0 3px 0;
+}
+
+

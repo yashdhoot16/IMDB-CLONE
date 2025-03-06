@@ -1,14 +1,16 @@
 # IMDB-CLONE
 
-<h5>Technologies used: ReactJS, TailwindCSS, HTML, API, AXIOS, JavaScript</h5>
+<h5>Tech Stack: ReactJS, TailwindCSS, HTML, TMDB API, Axios, JavaScript</h5>
 
+<b>Objective: </b>IMDB clone for browsing movie data, reviews, and ratings.
 <ul>
-<li>This is a clone application of IMDB.</li>
-<li>IMDB is a popular application for movie database and used to check and rate reviews for movies released worldwide.</li>
-<li>I have created this web application on basis of IMBD and made a clone web application.</li>
-<li>Basically this web application has data of all the latest popular movies and I have used API of TMDB and integrated it in application using Axios library in ReactJS.</li>
-<li>I have created this web application as a personal project.</li>
+<li>Displays popular/latest movie data (title, poster, rating, etc.).</li>
+<li>Shows movie reviews and ratings.</li>
+<li>Integrated TMDB API for real-time updates.</li>
+<li>Search functionality for movies.</li>
+<li>Responsive design for all devices.</li>
 </ul>
+<b>Personal Project: </b>Built to practice ReactJS, API integration, and front-end development.
 
 [Link for this web app: ](https://internetmoviedatabase-clone.netlify.app/)
 
